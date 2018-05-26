@@ -1,6 +1,6 @@
 # ZoCap
 
-![](images/marker-detect.jpg)
+![](images/marker-detection.jpg)
 
 T.B.W.
 
